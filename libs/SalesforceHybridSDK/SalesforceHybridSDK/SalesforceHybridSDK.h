@@ -36,7 +36,7 @@
 #import <SalesforceHybridSDK/SFNetworkPlugin.h>
 #import <SalesforceHybridSDK/SFSDKInfoPlugin.h>
 #import <SalesforceHybridSDK/CDVPlugin+SFAdditions.h>
-#import <SalesforceHybridSDK/SFMobileSyncPlugin.h>
+// #import <SalesforceHybridSDK/SFMobileSyncPlugin.h>
 #import <SalesforceHybridSDK/SFHybridViewConfig.h>
 #import <SalesforceHybridSDK/SFLocalhostSubstitutionCache.h>
-#import <SalesforceHybridSDK/SFSmartStorePlugin.h>
+// #import <SalesforceHybridSDK/SFSmartStorePlugin.h>
